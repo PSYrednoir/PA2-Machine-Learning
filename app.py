@@ -118,7 +118,7 @@ with col_info1:
     st.markdown("👩‍🚀 **Allison Carolina Negreiros Castillo**")
     st.markdown("🎓 NRC: 6817")
 with col_info2:
-    st.markdown("[📓 Ver cuaderno en Google Colab](TU_LINK_COLAB_AQUI)")
+    st.markdown("[📓 Ver cuaderno en Google Colab](https://colab.research.google.com/drive/1zRR8uWoFwT_x1VHLAleos5MPMFTQ4HxN#scrollTo=kLulTaGkjUNC)")
 
 st.markdown("---")
 
